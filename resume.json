@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "theme": "spartan"
+  },
+  "basics": {
+    "name": "Daniel Larner",
+    "label": "Software Engineer",
+    "picture": "https://en.gravatar.com/userimage/116019459/9a07ec9d2be721b5465025500fd73d5d.jpg?size=256",
+    "email": "daniel.larner@outlook.com",
+    "phone": "(443) 869-0058",
+    "summary": "Software engineer with hands-on experience in all layers of development. Working specifically with NodeJS, Angular, and AWS. Experience with .NET Framework (and Core), C#, SQL Server, and Entity Framework. Worked in Agile/SCRUM methodologies to speed up development processes.",
+    "location": {
+      "city": "Richmond",
+      "countryCode": "US",
+      "region": "Virginia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "daniel-larner",
+        "url": "https://www.linkedin.com/in/daniel-larner-79b7a06a/"
+      },
+      {
+        "network": "GitHub",
+        "username": "dlarner3194",
+        "url": "https://github.com/dlarner3194"
+      },
+      {
+        "network": "Stack Overflow",
+        "username": "daniel-larner",
+        "url": "https://stackoverflow.com/users/9375136/daniel-larner"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "SingleComm, LLC",
+      "position": "Software Engineer",
+      "website": "https://singlecomm.com/",
+      "startDate": "2018-07-09",
+      "summary": "As part of the product Enhancement Engineering team, the team I work with develops the next generation features for use across the SingleComm platform. Responsibilities include working with your lead to develop requirements for new features, the full automated testing from unit tests to end to end testing, engineering SOLID code, building pipelines for deployment, and assisting the Product Support team with production issues.",
+      "highlights": [
+        "Writing maintainable code with extensive test coverages",
+        "Building efficient, testable, and reusable typescript, Javascript, or scala code",
+        "Develop infrastructure to integrate and deliver code"
+      ]
+    },
+    {
+      "company": "Trilogy Education",
+      "position": "Subsitute Teacher's Assisstant",
+      "website": "https://www.trilogyed.com/",
+      "startDate": "2018-11-09",
+      "summary": "As a TA, I have helped students learn web development over the 6 month course. Helped students learn skills to then help companies bridge gaps in digital skills.",
+      "highlights": [
+        "Helped students build a portfolio of web applications to showcase their knowledge",
+        "Helped students learn HTML5, CSS3, Java, JavaScript, jQuery, Bootstrap, Express.js, React.js, Node.js, Database Theory, MongoDB, MySQL, Command Line, and Git"
+      ]
+    },
+    {
+      "company": "Infosys - Aetna",
+      "position": "Software Developer/QA",
+      "website": "https://www.aetna.com/",
+      "startDate": "2017-07-22",
+      "endDate": "2018-07-09",
+      "summary": "Worked as a software developer to build internal tools for QA, integration, and regression testing. Devloped applications using MVC and Entity Framework for using in data masking processes.",
+      "highlights": [
+        "Working in MS SQL Server 2012/2016 as development environment to read/write to databases",
+        "Making improvements to front end UI using Javascript and jQuery",
+        "Creating and manipulating test data for use in QA environments to replicate production scenarios"
+      ]
+    },
+    {
+      "company": "Revature",
+      "position": "Software Developer",
+      "website": "https://www.revature.com/",
+      "startDate": "2017-07-22",
+      "endDate": "2018-07-09",
+      "summary": "Took part in building web and single-page applications using Agile/SCRUM methodologies. Built applications using the .NET Framework and .NET Core.",
+      "highlights": [
+        "Gained experience in .NET Framework and .NET Core technologies building applications for clients in a CI/CD DevOps model",
+        "Wrote unit tests using NUnit to adhere to TDD and increase code coverage",
+        "Implemetned design principles (SOLID) and design patterns to enhance code rusability, extensibility, and maintainability"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Mary Washington",
+      "area": "Philosophy",
+      "studyType": "Bachelor",
+      "startDate": "2012-08-22",
+      "endDate": "2016-12-09"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Certified Developer Associate",
+      "date": "2019-05-09",
+      "awarder": "AWS",
+      "summary": "Demonstrate an understanding of core AWS services, uses, and basic AWS architecture best practices. Demonstrate proficiency in developing, deploying, and debugging cloud-based applications using AWS."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Intermediate",
+      "keywords": ["HTML5", "CSS3", "Javascript (AngularJS, React)"]
+    },
+    {
+      "name": "Backend",
+      "level": "Intermediate",
+      "keywords": ["NodeJS", ".NET", "C#", "Python"]
+    },
+    {
+      "name": "Cloud",
+      "level": "Intermediate",
+      "keywords": ["AWS", "Lambda", "EC2", "CloudWatch", "DynamoDB"]
+    },
+    {
+      "name": "Database",
+      "level": "Intermediate",
+      "keywords": [
+        "SQL",
+        "MySQL",
+        "PostGres",
+        "NoSQL",
+        "Memchached/Redis",
+        "MongoDB",
+        "DynamoDB"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": ["Soccer", "Basketball"]
+    }
+  ]
+}
